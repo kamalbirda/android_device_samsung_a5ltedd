@@ -30,7 +30,7 @@
 TARGET_OTA_ASSERT_DEVICE := a5lte,a5ltedd,SM-A500G
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogen_a5ltedd_defconfig
+TARGET_KERNEL_CONFIG := cyanogen_a5ultexx_defconfig
 
 # TWRP
 DEVICE_RESOLUTION := 720x1280
